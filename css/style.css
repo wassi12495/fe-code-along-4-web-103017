@@ -85,7 +85,7 @@ img, video, audio {
 .wrapper{
   width: 960px;
   margin: 0 auto;
-  
+
 }
 
 .col-1{
@@ -135,6 +135,7 @@ section {
 }
 
 /*/////// Social //////*/
+/**/
 #social {
   position: fixed;
   top: 200px;
